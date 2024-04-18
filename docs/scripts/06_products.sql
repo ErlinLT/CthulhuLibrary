@@ -1,0 +1,37 @@
+-- Active: 1713138814062@@127.0.0.1@3306@CthulhuLibrary
+INSERT INTO products (productId, productName, productDescription, productPrice, productImgUrl, productStock, productStatus)
+VALUES 
+    (192837465, 'Necronomicon Replica', 'Exact replica of the infamous Necronomicon from H.P. Lovecraft\'s works', 49.99, 'https://i.pinimg.com/originals/f1/1e/8f/f11e8f7cf4c45bea81a8d14779b1e5d4.jpg', 100, 'ACT'),
+    (87654321, 'Cthulhu Plush Toy', 'Soft and cuddly plush toy modeled after the ancient cosmic entity Cthulhu', 29.99, 'https://i.pinimg.com/originals/c1/1a/0b/c11a0b96eb7ef36ab1981509e0b61b97.jpg', 100, 'ACT'),
+    (135792468, 'Arkham Horror Board Game', 'Immersive board game set in the Lovecraftian universe of Arkham Horror', 59.99, 'https://i.pinimg.com/originals/86/cd/20/86cd2042ee86644b0e68dbdc20fd6245.jpg', 100, 'ACT'),
+    (987654321, 'Eldritch Dice Set', 'Set of polyhedral dice with intricate designs inspired by Lovecraftian lore', 19.99, 'https://i.pinimg.com/originals/cd/7b/63/cd7b6348d7c292cb6a3d7787ed62e7e4.jpg', 100, 'ACT'),
+    (246813579, 'Cthulhu T-Shirt', 'Stylish t-shirt featuring a captivating artwork of Cthulhu', 24.99, 'https://i.pinimg.com/originals/b0/9d/6e/b09d6e00317f2959148a2fa2aa6c2291.jpg', 100, 'ACT'),
+    (101010101, 'Lovecraftian Art Print Set', 'Set of high-quality art prints depicting scenes from Lovecraft\'s mythos', 39.99, 'https://i.pinimg.com/originals/a0/54/70/a054703ee5e8497b5a0ef02a05b33f05.jpg', 100, 'ACT'),
+    (202020202, 'Eldritch Horror Novels Collection', 'Collection of classic Lovecraftian horror novels, including "The Call of Cthulhu" and "At the Mountains of Madness"', 69.99, 'https://i.pinimg.com/originals/69/30/52/693052e4e92aa1c0b36cfaeccf8ac6c7.jpg', 100, 'ACT'),
+    (303030303, 'Cthulhu Mythos Graphic Novel', 'Graphic novel adaptation of Lovecraft\'s most iconic stories from the Cthulhu Mythos', 34.99, 'https://i.pinimg.com/originals/8c/5d/99/8c5d992810d4941c22900b509d0335e7.jpg', 100, 'ACT'),
+    (404040404, 'Innsmouth Travel Poster', 'Vintage-style travel poster promoting the mysterious town of Innsmouth', 14.99, 'https://i.pinimg.com/originals/68/e3/26/68e326dc8c51fae18387e66b5c789f34.jpg', 100, 'ACT'),
+    (505050505, 'Eldritch Horror RPG Starter Set', 'Starter set for an immersive role-playing game set in the Lovecraftian universe', 49.99, 'https://i.pinimg.com/originals/9f/2c/50/9f2c50d6886c41438d86a7b6c79b4b7d.jpg', 100, 'ACT'),
+    (606060606, 'Necronomicon Bookends', 'Decorative bookends shaped like the infamous Necronomicon to adorn your bookshelf', 39.99, 'https://i.pinimg.com/originals/a7/68/c3/a768c38f4e45b19707a0c07f9d62f090.jpg', 100, 'ACT'),
+    (707070707, 'Cthulhu Funko POP!', 'Funko POP! vinyl figure featuring the iconic cosmic entity Cthulhu', 9.99, 'https://i.pinimg.com/originals/6a/34/5b/6a345b6f240e38d27e43fd61f084e1b9.jpg', 100, 'ACT'),
+    (808080808, 'Lovecraftian Tarot Deck', 'Tarot deck featuring eerie illustrations inspired by Lovecraft\'s mythos', 29.99, 'https://i.pinimg.com/originals/8d/12/f9/8d12f9bfa4b29c9a15289242990d7323.jpg', 100, 'ACT'),
+    (909090909, 'Miskatonic University Hoodie', 'Cozy hoodie featuring the emblem of Miskatonic University, a prominent institution in Lovecraft\'s works', 39.99, 'https://i.pinimg.com/originals/46/f2/cb/46f2cb37b50d01736491b4741e4de48e.jpg', 100, 'ACT'),
+    (123456789, 'Eldritch Horror Artbook', 'Artbook showcasing stunning illustrations inspired by Lovecraftian horror', 49.99, 'https://i.pinimg.com/originals/39/ea/f2/39eaf2071b9c8f2e6aeb75b37385cf16.jpg', 100, 'ACT'),
+    (9876543210, 'Cthulhu Laptop Sticker', 'Durable vinyl sticker featuring the iconic image of Cthulhu to personalize your laptop', 7.99, 'https://m.media-amazon.com/images/I/51sbecyTsPL._SY445_SX342_.jpg', 100, 'ACT');
+
+INSERT INTO products (productId, productName, productDescription, productPrice, productImgUrl, productStock, productStatus)
+VALUES 
+    (1111111111, 'Eldritch Horror Board Game Expansion', 'Expansion set for the Eldritch Horror board game, introducing new horrors and challenges', 29.99, 'https://i.pinimg.com/originals/5d/bd/20/5dbd2081f92f0c22a94fe54dd7fb5825.jpg', 100, 'ACT'),
+    (2222222222, 'Cthulhu Pillow', 'Comfortable pillow featuring a detailed illustration of Cthulhu, perfect for Lovecraft fans', 19.99, 'https://i.pinimg.com/originals/4e/e2/a8/4ee2a8e5af850d6b0f40f9e84f20d68e.jpg', 100, 'ACT'),
+    (3333333333, 'Necronomicon Notebook', 'Hardcover notebook designed to resemble the ancient tome known as the Necronomicon', 14.99, 'https://i.pinimg.com/originals/68/8e/c9/688ec9d62535a754e7a7cfcbda61ee91.jpg', 100, 'ACT'),
+    (4444444444, 'Cthulhu Keychain', 'Durable keychain featuring a miniature sculpt of Cthulhu to carry your keys in style', 9.99, 'https://i.pinimg.com/originals/5f/0f/3f/5f0f3f91d65d97dd68614c6a13d2fc04.jpg', 100, 'ACT'),
+    (5555555555, 'Arkham Asylum Puzzle', 'Challenging jigsaw puzzle depicting the eerie architecture of Arkham Asylum', 24.99, 'https://i.pinimg.com/originals/02/a8/e3/02a8e35c6f06d69ac0b8d9a08540d768.jpg', 100, 'ACT'),
+    (6666666666, 'Lovecraftian Playing Cards', 'Custom playing cards featuring illustrations inspired by Lovecraft\'s cosmic horrors', 12.99, 'https://i.pinimg.com/originals/80/a0/b4/80a0b45db89d1d850a1c3529ef007801.jpg', 100, 'ACT'),
+    (7777777777, 'Cthulhu Phone Case', 'Protective phone case adorned with a striking image of Cthulhu, available for various phone models', 17.99, 'https://i.pinimg.com/originals/fb/85/40/fb8540b2b5d6f4e02a1b74f27a1f6ed0.jpg', 100, 'ACT'),
+    (8888888888, 'Eldritch Horror Art Print', 'High-quality art print featuring a chilling scene from the Eldritch Horror universe, perfect for framing', 29.99, 'https://i.pinimg.com/originals/7a/48/2c/7a482cfc40fe68aebcb02f0eb8cfe8cc.jpg', 100, 'ACT'),
+    (9999999999, 'Cthulhu Socks', 'Cozy socks featuring a fun and quirky design of Cthulhu, sure to keep your feet warm in cosmic style', 9.99, 'https://i.pinimg.com/originals/9d/3e/40/9d3e40f5bf349d7fbd42435bf6169369.jpg', 100, 'ACT'),
+    (1010101010, 'Miskatonic University Mug', 'Sturdy ceramic mug adorned with the emblem of Miskatonic University, perfect for your morning coffee rituals', 11.99, 'https://i.pinimg.com/originals/56/36/04/563604b6c1a9b71b0f0e5ee25928ed5d.jpg', 100, 'ACT'),
+    (11111111111, 'Eldritch Horror Tarot Deck', 'Tarot deck featuring illustrations inspired by the cosmic horrors of the Eldritch Horror universe', 19.99, 'https://i.pinimg.com/originals/1f/e2/1d/1fe21d650b3f2fda2e4af3eeb25d04a1.jpg', 100, 'ACT'),
+    (12121212121, 'Cthulhu Backpack', 'Stylish backpack featuring a subtle yet striking design of Cthulhu, perfect for everyday use', 39.99, 'https://i.pinimg.com/originals/86/44/a4/8644a408c2402e1a2ec5903d8bc89c2d.jpg', 100, 'ACT'),
+    (13131313131, 'Lovecraftian Wall Clock', 'Unique wall clock with intricate Lovecraftian motifs, adding an eerie touch to your home decor', 29.99, 'https://i.pinimg.com/originals/4b/88/14/4b8814fc43a4ef5f5d6e19ae3454d85e.jpg', 100, 'ACT'),
+    (14141414141, 'Necronomicon Pendant', 'Exquisite pendant featuring a miniature replica of the Necronomicon, a must-have for Lovecraft enthusiasts', 16.99, 'https://i.pinimg.com/originals/67/28/fd/6728fdfb9e0f32de4375543a7eb7c15c.jpg', 100, 'ACT'),
+    (15151515151, 'Cthulhu Plush Toy', 'Adorable plush toy depicting the fearsome Cthulhu, perfect for cuddling or displaying', 19.99, 'https://i.pinimg.com/originals/20/c1/8e/20c18ef7f9a1a8df88cf24cf3e02463e.jpg', 100, 'ACT');
